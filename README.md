@@ -1,1 +1,1 @@
-"# Rise Adventure" 
+# Rise Adventure
