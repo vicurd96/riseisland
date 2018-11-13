@@ -12,7 +12,7 @@
 
 3. **Perspectiva del juego**
 
-   El juego tendrá una proyección isométrica.
+   El juego tendrá una proyección cenital.
 
 #### ***Mecánicas de juego***
 
