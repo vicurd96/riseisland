@@ -13,7 +13,7 @@
     "browserify": "^16.2.3"
   },
   "scripts": {
-    "build": "browserify app.js -o dist/bundle.js"
+    "build": "browserify app/app.js -o dist/bundle.js"
   },
   "author": "",
   "license": "ISC"
